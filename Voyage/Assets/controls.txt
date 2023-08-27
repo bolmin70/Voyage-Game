@@ -1,0 +1,19 @@
+0 - iks D
+1 - kó³ko
+2 - kwadrat
+3 - trójk¹t
+4 - l1
+5 - r1
+6 - share
+7 - options
+8 - l3
+9 - r3
+
+
+axis:
+PovX - dpad X
+PovY - dpad Y
+Z - +l2 -r2 //R3 X
+R - ?//R3 Y
+U - l3 X
+V - l3 Y
